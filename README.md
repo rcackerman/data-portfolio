@@ -22,6 +22,8 @@ fraction of the time.
 
 The final file is `Survey Sample.ipynb`. This was done as part of an annual
 survey of client experience. After pulling a sample frame in SQL ("Finding
-eligible cases and people"), I check to make sure the sample is roughly similar
+eligible cases and people")\*, I check to make sure the sample is roughly similar
 to the full population. The file shows how I approach learning new
 datasets, as well as how I communicate findings to my audience.
+
+\* You can see more about our sample frame [here](https://github.com/rcackerman/data-portfolio/blob/main/methodology.md)!
